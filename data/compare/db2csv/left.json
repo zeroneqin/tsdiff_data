@@ -1,0 +1,20 @@
+[
+  {
+    "name": "table1",
+    "driver": "org.postgresql.Driver",
+    "url":"jdbc:postgresql://xxx.xxx.xxx.xxx:xxxx/db1",
+    "username":"user",
+    "password":"pass",
+    "priKey": "id,name",
+    "sql": "select id,name,value from table1"
+  },
+  {
+    "name": "table2",
+    "driver": "org.postgresql.Driver",
+    "url":"jdbc:postgresql://xxx.xxx.xxx.xxx:xxxx/db2",
+    "username":"user",
+    "password":"pass",
+    "priKey": "id,name",
+    "sql": "select id,name,value from table2"
+  }
+]

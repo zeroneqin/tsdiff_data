@@ -1,0 +1,14 @@
+[
+  {
+    "name": "table1",
+    "path": "data/csv/table1.csv",
+    "priKey": "id,name",
+    "column": "id,name,value"
+  },
+  {
+    "name": "table2",
+    "path": "data/csv/table2.csv",
+    "priKey": "id,name",
+    "column": "id,name,value"
+  }
+]

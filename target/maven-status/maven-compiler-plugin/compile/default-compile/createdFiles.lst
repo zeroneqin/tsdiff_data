@@ -1,0 +1,6 @@
+com\qinjun\autotest\tsdiff\po\csv\data\CSVBody.class
+com\qinjun\autotest\tsdiff\po\csv\data\CSVRow.class
+com\qinjun\autotest\tsdiff\po\csv\info\CSVInfo.class
+com\qinjun\autotest\tsdiff\po\csv\data\CSVHeader.class
+com\qinjun\autotest\tsdiff\po\csv\data\CSV.class
+com\qinjun\autotest\tsdiff\po\csv\data\CSVList.class
