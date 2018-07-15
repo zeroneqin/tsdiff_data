@@ -112,7 +112,6 @@ public class DB2CSVComparer implements Comparable {
             result = false;
         }
 
-
         return result;
     }
 
